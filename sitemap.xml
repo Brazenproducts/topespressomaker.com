@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://topespressomaker.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://topespressomaker.com/best-best-espresso-machines-2026.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://topespressomaker.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://topespressomaker.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://topespressomaker.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://topespressomaker.com/how-to-clean-an-espresso-machine.html</loc><lastmod>2026-05-15</lastmod><changefreq>weekly</changefreq></url>
-  <url><loc>https://topespressomaker.com/espressomaker-trends-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://topespressomaker.com/no-bs-espressomaker-guide-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://topespressomaker.com/espressomaker-practical-guide-2026.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://topespressomaker.com/espressomaker-tested-ranked-2026.html</loc><lastmod>2026-05-21</lastmod></url>
-  <url><loc>https://topespressomaker.com/espressomaker-what-wed-buy-2026.html</loc><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://topespressomaker.com/espressomaker-compared-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://topespressomaker.com/espressomaker-reviewed-2026.html</loc><lastmod>2026-05-27</lastmod></url>
-  <url><loc>https://topespressomaker.com/espressomaker-explained-2026.html</loc><lastmod>2026-05-30</lastmod></url>
-  <url><loc>https://topespressomaker.com/espressomaker-market-2026.html</loc><lastmod>2026-06-02</lastmod></url>
-  <url><loc>https://topespressomaker.com/what-we-look-for-espressomaker-2026.html</loc><lastmod>2026-06-05</lastmod></url>
-  <url><loc>https://topespressomaker.com/best-espressomaker-without-overpaying.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://topespressomaker.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
